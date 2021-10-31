@@ -1,4 +1,4 @@
 ## Next + Firebase Blog app 🔥
 
-live link :
+live link : https://nextjs-project-khaki.vercel.app/
 
