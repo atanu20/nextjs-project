@@ -1,6 +1,6 @@
 export const apiLinks = {
-     baseUrl:"http://localhost:3000/"     // for development
-     // baseUrl:"http://www.aptdiagnostics.com:5000/"   //for production
+     //baseUrl:"http://localhost:3000/"     // for development
+      baseUrl:"https://next-ecom-project.herokuapp.com/"   //for production
     // baseUrl: "http://13.233.156.29:5000/"
  }
 
